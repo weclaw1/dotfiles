@@ -1,0 +1,10 @@
+[container]
+style = 'bold bright-green'
+format = '[$symbol \[$name\]]($style) '
+
+[username]
+disabled = false
+show_always = true
+
+[hostname]
+ssh_only = false
